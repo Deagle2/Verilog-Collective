@@ -1,5 +1,5 @@
 # Verilog-Collective
-Generic Verilog code examples for digital design.
+Generic Verilog code templates for digital design.
 
 I've created this repository because:
 
